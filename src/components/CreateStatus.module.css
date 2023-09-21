@@ -1,0 +1,17 @@
+.statusInput {
+  background-color: #3a3b3c !important;
+}
+
+.statusInput::placeholder {
+  font-size: 17px;
+  color: #b0b3b8;
+}
+.actionButton {
+  width: 33%;
+  background-color: inherit;
+  border: none;
+  border-radius: 0.5rem;
+}
+.actionButton:hover {
+  background-color: #3a3b3c;
+}

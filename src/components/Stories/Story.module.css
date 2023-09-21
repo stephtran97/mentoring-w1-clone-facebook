@@ -1,0 +1,49 @@
+.storyItem {
+  /* flex-basis: 140px; */
+}
+.avatar {
+  position: absolute;
+  top: 1rem;
+  left: 0.5rem;
+}
+.imgOverlay {
+  width: 140px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+.title {
+  font-size: 12px;
+  transform: translateY(-2rem);
+}
+
+/* Create Story */
+.imgOverlayCreate {
+  width: 140px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+.divCreateStory {
+  position: relative;
+  height: 50px;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+.createStoryTitle {
+  font-size: 12px;
+  transform: translateY(-1rem);
+}
+.addButton {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: -12px;
+
+  box-shadow: 0 0 0 4px #4e4e4f;
+}
+
+.addButton svg {
+  transform: scale(1.5);
+}

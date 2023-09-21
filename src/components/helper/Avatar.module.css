@@ -1,0 +1,9 @@
+.onlineSign {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: green;
+  box-shadow: 0 0 0 2px #18191a;
+  align-self: flex-end;
+  transform: translateX(-7px);
+}

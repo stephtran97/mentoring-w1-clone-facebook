@@ -1,0 +1,12 @@
+.adsImage {
+  width: 130px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+.adsTitle {
+  font-size: 14px;
+  color: #e4e6eb;
+}
+.adsUrl {
+  color: #b0b3b8;
+}
