@@ -45,6 +45,18 @@ const userShortcutsData = [
     shortcutName: "Facebook group 11",
     shortcutImage: "./media/user-shortcuts/shortcut4.svg",
   },
+  {
+    shortcutName: "Facebook group 12",
+    shortcutImage: "./media/user-shortcuts/shortcut4.svg",
+  },
+  {
+    shortcutName: "Facebook group 13",
+    shortcutImage: "./media/user-shortcuts/shortcut4.svg",
+  },
+  {
+    shortcutName: "Facebook group 14",
+    shortcutImage: "./media/user-shortcuts/shortcut4.svg",
+  },
 ];
 
 export default function Shortcuts() {

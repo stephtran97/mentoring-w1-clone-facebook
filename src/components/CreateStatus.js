@@ -25,7 +25,6 @@ export default function CreateStatus() {
 
         <Container className="d-flex justify-content-around align-items-center mt-2">
           <button
-            href="#"
             className={`${styles.actionButton} d-flex justify-content-center align-items-center py-2`}
           >
             <SlCamrecorder fill="red" className="fs-5" />
@@ -39,6 +38,7 @@ export default function CreateStatus() {
           </button>
           <button
             className={`${styles.actionButton} d-flex justify-content-center align-items-center py-2`}
+            style={{ minWidth: "130px" }}
           >
             <MdInsertEmoticon fill="yellow" className="fs-5" />
             <span className="ms-1 text-secondary fw-bold">

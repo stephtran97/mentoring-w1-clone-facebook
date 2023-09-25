@@ -16,6 +16,7 @@ export default function Avatar({
       <img
         key={username}
         src={src}
+        alt={`${username}'s avatar`}
         style={{
           width: `${size}`,
           height: `${size}`,

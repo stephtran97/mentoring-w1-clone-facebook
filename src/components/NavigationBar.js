@@ -31,7 +31,7 @@ export default function NavigationBar() {
           style={{ maxWidth: "360px" }}
         >
           <Navbar.Brand href="#">
-            <img src="./media/logo.webp" style={{ width: "40px" }}></img>
+            <img alt="Facebook logo" src="./media/logo.webp" style={{ width: "40px" }}></img>
           </Navbar.Brand>
 
           <span
@@ -62,7 +62,7 @@ export default function NavigationBar() {
           }}
         >
           <Nav.Link
-            href="/home"
+            href="#home"
             className="hover rounded-3 py-3 d-flex justify-content-center d-none d-lg-flex"
             style={{ minWidth: "50px", width: "20%" }}
           >
