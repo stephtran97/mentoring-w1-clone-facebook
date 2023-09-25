@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mentoring-w1-clone-facebook/static/css/main.ee8cb902.css",
-    "main.js": "/mentoring-w1-clone-facebook/static/js/main.06d4a67d.js",
+    "main.js": "/mentoring-w1-clone-facebook/static/js/main.51e86629.js",
     "index.html": "/mentoring-w1-clone-facebook/index.html",
     "main.ee8cb902.css.map": "/mentoring-w1-clone-facebook/static/css/main.ee8cb902.css.map",
-    "main.06d4a67d.js.map": "/mentoring-w1-clone-facebook/static/js/main.06d4a67d.js.map"
+    "main.51e86629.js.map": "/mentoring-w1-clone-facebook/static/js/main.51e86629.js.map"
   },
   "entrypoints": [
     "static/css/main.ee8cb902.css",
-    "static/js/main.06d4a67d.js"
+    "static/js/main.51e86629.js"
   ]
 }
