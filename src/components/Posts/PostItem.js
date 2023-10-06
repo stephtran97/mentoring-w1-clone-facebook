@@ -23,7 +23,7 @@ export default function PostItem({
         <div className="d-flex flex-column ms-2">
           <span className="fw-bold">{username}</span>
           <span>
-            {postTime.getDate()}
+            {postTime} ·
             <span className="ms-2">
               <BsGlobeAmericas></BsGlobeAmericas>
             </span>

@@ -2,14 +2,14 @@ import Advertisement from "./Sponsored/Advertisement";
 
 const adsData = [
   {
-    adsTitle: "COME AND JOIN US!",
+    adsTitle: "SĂN SHOPEE SALE 10/10 NGAY!",
     adsUrl: "shopee.vn",
     adsImageSource: "./media/user-ads/ads1.webp",
   },
   {
-    adsTitle: "COME AND JOIN US NOW!",
-    adsUrl: "shopee.vn",
-    adsImageSource: "./media/user-ads/ads1.webp",
+    adsTitle: "SIÊU SALE LAZADA 10/10!",
+    adsUrl: "lazada.vn",
+    adsImageSource: "./media/user-ads/ads2.webp",
   },
 ];
 
